@@ -119,8 +119,11 @@
             ]
           }
         ],
-        "tab": "API reference",
-         "openapi": "https://openapi.golance.com/spec.yml",
+        "tab": "API reference"
+      },
+      {
+        "tab": "OpenAPI reference",
+        "openapi": "https://openapi.golance.com/spec.yml"
       }
     ]
   },
