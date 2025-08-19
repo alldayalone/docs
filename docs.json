@@ -26,7 +26,7 @@
     }
   },
   "logo": {
-    "dark": "/logo/dark.svg",
+    "dark": "/logo/dark.png",
     "light": "/logo/light.svg"
   },
   "name": "Mint Starter Kit",
@@ -122,8 +122,12 @@
         "tab": "API reference"
       },
       {
-        "tab": "OpenAPI reference",
-        "openapi": "https://openapi.golance.com/spec.yaml"
+        "openapi": "https://petstore3.swagger.io/api/v3/openapi.json",
+        "tab": "OpenAPI reference"
+      },
+      {
+        "openapi": "api-reference/spec.yaml",
+        "tab": "OpenAPI reference local"
       }
     ]
   },
