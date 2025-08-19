@@ -123,7 +123,7 @@
       },
       {
         "tab": "OpenAPI reference",
-        "openapi": "https://openapi.golance.com/spec.yml"
+        "openapi": "https://openapi.golance.com/spec.yaml"
       }
     ]
   },
