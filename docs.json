@@ -43,6 +43,7 @@
       "type": "button"
     }
   },
+  "openapi": "https://openapi.golance.com/spec.yml",
   "navigation": {
     "global": {
       "anchors": [
